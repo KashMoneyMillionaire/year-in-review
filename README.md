@@ -1,1 +1,1 @@
-year-in-review
+An app for showing an album as a year in review for family
